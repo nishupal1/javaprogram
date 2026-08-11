@@ -2,18 +2,14 @@ import java.util.Scanner;
 
 public class git_repo_practice {
     public static void main(String[] args) {
-
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Whats your name ?");
-        String a = sc.next();
-
-        System.out.println("I am trying to make pull request");
-        //String b = sc.next("I am just tesing it");
-        System.out.println("Taking input from user");
-//Scanner sc = new Scanner(System.in);
-        String str = sc.nextLine();
-        System.out.println(str);
-
+        int a = 12;
+        int b = 23;
+        int sum = a + b;
+        System.out.println(sum);
+        float d = 5.78f;
+        float e = 4.89f;
+        float sum1 = d+e;
+        System.out.println(sum1);
 
 
 
