@@ -15,6 +15,8 @@ public class git_repo_practice {
         int g = 23;
         int sum2 = f+g;
         System.out.println(sum2);
+        System.out.println("A another update for github");
+
 
 
 
