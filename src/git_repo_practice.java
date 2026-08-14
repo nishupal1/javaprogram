@@ -17,7 +17,7 @@ public class git_repo_practice {
         System.out.println(sum2);
         System.out.println("A another update for github");
         System.out.println("A another update for github");
-
+        System.out.println("Multiple comment for git hub");
 
     }
 }
