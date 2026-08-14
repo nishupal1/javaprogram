@@ -19,6 +19,8 @@ public class git_repo_practice {
         System.out.println("A another update for github");
         System.out.println("Multiple comment for git hub");
         System.out.println("stucked");
+        System.out.println("what does alt + 0 mean?");
+
 
 
     }
