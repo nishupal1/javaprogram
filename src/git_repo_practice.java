@@ -21,6 +21,7 @@ public class git_repo_practice {
         System.out.println("stucked");
         System.out.println("what does alt + 0 mean?");
         System.out.println("143");
+        System.out.println("1432");
 
 
 
