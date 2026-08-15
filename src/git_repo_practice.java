@@ -23,6 +23,7 @@ public class git_repo_practice {
         System.out.println("143");
         System.out.println("1432");
         System.out.println("741852");
+        System.out.println("369852");
 
 
 
