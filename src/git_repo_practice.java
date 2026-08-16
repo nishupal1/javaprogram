@@ -28,6 +28,7 @@ public class git_repo_practice {
         System.out.printf("sweet");
         System.out.println("deleet all");
         System.out.println("456654");
+        System.out.println("ok 5 done");
 
 
 
