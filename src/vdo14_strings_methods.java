@@ -53,11 +53,31 @@ public class vdo14_strings_methods {
        // System.out.println(name7.startsWith("Nis", "6"));
         System.out.println(name7.endsWith("al")); // tell the ending
 
-        String name8 = "Nishu pal";
+        String name8 = "Nishu nishu";
         System.out.println(name8.charAt(3)); // tell character at index 3
 
         System.out.println(name8.indexOf("hu")); // it tell index number of string
         System.out.println(name8.indexOf("u"));  // but the first one
+
+        String a = "This is for example of indexof";
+        System.out.println(a);
+        System.out.println(a.indexOf("of", 4)); // it search from the given index number
+
+        String name9 = "nishu nishu";
+        System.out.println(name9.lastIndexOf("u"));
+        System.out.println(name9.lastIndexOf("s", 1));
+        // if string pr command is invalid then output will b negitive
+        System.out.println(name9.lastIndexOf("i", 8));
+        // it will select the last one
+
+        String name10 = "Nishu Pal";
+        System.out.println(name10.equals("Nishu Pal")); // check the sting is true or not
+        System.out.println(name10.equalsIgnoreCase("nishu pal")); // it ignors case and check
+
+        System.out.println(" \"trying for the escape sequence\" "  ); // method to use double quote
+        System.out.println("trying for the \\escape sequence"  ); // method to use back slase
+
+
 
 
 
