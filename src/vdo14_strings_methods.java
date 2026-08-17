@@ -75,7 +75,8 @@ public class vdo14_strings_methods {
         System.out.println(name10.equalsIgnoreCase("nishu pal")); // it ignors case and check
 
         System.out.println(" \"trying for the escape sequence\" "  ); // method to use double quote
-        System.out.println("trying for the \\escape sequence"  ); // method to use back slase
+        System.out.println("trying for the \\escape sequence"  ); // method to use back
+
 
 
 
