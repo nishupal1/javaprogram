@@ -19,5 +19,13 @@ public class vdo15_string_practice {
         letter = letter.replace("<|name|>", "Nishu");
         System.out.println(letter);
 
+        // Question 4
+        String name2 = "This is  Nishu Pal   ";
+        System.out.println(name2.indexOf("  "));
+        System.out.println(name2.indexOf("   "));
+
+        //
+
+
     }
 }
