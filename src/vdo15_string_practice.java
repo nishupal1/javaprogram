@@ -18,5 +18,6 @@ public class vdo15_string_practice {
         String letter = " Dear <|name|>, Trans a lot";
         letter = letter.replace("<|name|>", "Nishu");
         System.out.println(letter);
+
     }
 }
