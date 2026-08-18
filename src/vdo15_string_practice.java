@@ -25,7 +25,7 @@ public class vdo15_string_practice {
         System.out.println(name2.indexOf("   "));
 
         // Question 5
-        String letter1 = "Dear Harry, This java course is nice. Thanks";
+        String letter1 = "Dear Harry,\n\t This java course is nice.\n Thanks";
         System.out.println(letter1);
 
 
