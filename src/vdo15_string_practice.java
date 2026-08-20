@@ -29,6 +29,5 @@ public class vdo15_string_practice {
         System.out.println(letter1);
 
 
-
     }
 }
