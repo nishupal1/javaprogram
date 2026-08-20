@@ -28,5 +28,6 @@ public class vdo15_string_practice {
         String letter1 = "Dear Harry,\n\t This java course is nice.\n Thanks";
         System.out.println(letter1);
 
+
     }
 }
