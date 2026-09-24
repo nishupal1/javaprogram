@@ -15,6 +15,24 @@ public class vdo18_elseif {
            else if (age<13){
            System.out.println("child");}
 
+           int age1;
+       System.out.println("Enter your age");
+       Scanner sc1 = new Scanner(System.in);
+       age1 = sc.nextInt();
+
+       switch (age1) {
+           case 18:
+               System.out.println("Adult");
+               break;
+           case 45:
+               System.out.println("old");
+               break;
+           case 13:
+               System.out.println("child");
+               break;
+       }
+
+
 
 
 
