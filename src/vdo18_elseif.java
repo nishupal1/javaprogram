@@ -27,7 +27,7 @@ public class vdo18_elseif {
            case 45:
                System.out.println("old");
                break;
-           case 13:
+           case 10:
                System.out.println("child");
                break;
        }
